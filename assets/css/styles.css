@@ -174,7 +174,8 @@ section { padding: 120px 0; }
 }
 
 .portfolio-details a h2, .portfolio-details a p {
-    color: #ffffff;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 2px rgb(0, 0, 0);
 }
 
 /* //////////////
@@ -188,7 +189,8 @@ section { padding: 120px 0; }
 
 .member-details {
     position: absolute;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 2px rgb(0, 0, 0);
     bottom: 0;
     left: 20px;
 }
@@ -319,15 +321,15 @@ section { padding: 120px 0; }
 footer {
     padding: 80px 0;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
 }
 
 footer a {
-    color: #ffffff;
+    color: #000000;
 }
 
 footer a:hover {
-    color: #ffffff;
+    color: #000000;
 }
 
 footer .list-inline .list-inline-item {
